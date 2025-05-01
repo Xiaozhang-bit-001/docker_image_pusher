@@ -11,3 +11,4 @@ hello-world
 redis
 ubuntu
 tomcat
+registry
