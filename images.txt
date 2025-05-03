@@ -14,4 +14,4 @@ tomcat
 registry
 billygoo/tomcat8-jdk8
 mysql:5.7
-centos
+centos:7
