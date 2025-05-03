@@ -15,4 +15,4 @@ registry
 billygoo/tomcat8-jdk8
 mysql:5.7
 centos:7
-java:8
+openjdk:8
