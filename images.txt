@@ -16,4 +16,4 @@ billygoo/tomcat8-jdk8
 mysql:5.7
 centos:7
 openjdk:8
-docker-compose:1.25.1
+docker-compose
