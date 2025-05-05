@@ -17,3 +17,6 @@ mysql:5.7
 centos:7
 openjdk:8
 portainer/portainer
+tutum/influxdb:0.9
+google/cadvisor
+grafana/grafana
