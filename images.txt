@@ -26,3 +26,4 @@ nginx:1.13.7-alpine
 wordpress
 dockersamples/visualizer:stable
 pycocotools-2.0
+detectron2:0.3
