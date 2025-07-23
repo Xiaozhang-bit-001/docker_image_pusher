@@ -25,3 +25,4 @@ influxdb:2.5.1
 nginx:1.13.7-alpine
 wordpress
 dockersamples/visualizer:stable
+pycocotools-2.0
