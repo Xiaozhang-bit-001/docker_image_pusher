@@ -28,4 +28,3 @@ dockersamples/visualizer:stable
 pycocotools-2.0
 nginx:1.18
 mmcv
-mmcv-full
