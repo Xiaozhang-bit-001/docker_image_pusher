@@ -27,4 +27,4 @@ wordpress
 dockersamples/visualizer:stable
 pycocotools-2.0
 nginx:1.18
-SoftPool
+https://github.com/zhiyiYo/QFluentWidgets.git:v2.6.0
